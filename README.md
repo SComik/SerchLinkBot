@@ -46,3 +46,6 @@
 ```bash
 python main.py
 ```
+##  Пример работы 
+<img width="389" height="574" alt="image" src="https://github.com/user-attachments/assets/0ba99458-6ae0-4d05-b22c-8e1dcac40072" />
+
